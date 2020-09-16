@@ -1,8 +1,6 @@
 ## Srikaanth Thalanki Balajhi <a href="https://srikaanth.com/">My website</a>
 
-An aspiring software developer with a passion to seek out the next big thing. After leaving school, decided University wasn't for me and decided to do an apprenticeship as a web developer. Over that time I learned a lot about web technology and then I decided I wanted more. So here I am at makers academy!
-
-I want to become a full fledged software developer and always be seeking that next big thing in a industry that constantly changes
+A young aspiring software developer who recently graduated from makers academy with a passion to seek out the next big thing. Having done an apprenticeship in IT skills and going futher to gain an MTA in networking as well as a wealth of past experience as a web-developer, I'd be a perfect fit for any dev team. I'm able to hit the ground running, communicate effectivly both in person and remotely to techies and non-techies alike and adapt quickly to any new challenge.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
