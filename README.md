@@ -14,6 +14,8 @@ A young aspiring software developer who recently graduated from makers academy w
 **Web developement**
 I have 4 years of experience of developing websites using wordpress. Examples of my work: <a href="https://www.dogs.co.uk/">Dogs.co.uk</a>, <a href="https://www.pfca.org.uk/">PFCA</a>, <a href="https://www.expatriates.co.uk/">Expatriates</a>
 
+**Adaptable**
+Halfway through the makers academy course, it suddenly switched to an online only format due to the COVID pandemic. This brought with it its own challenges, on top of learning new languages, I had to quickly adapt to pair programming remotely, as well as co-ordinate working in groups. Having been able to product a clone of facebook and airbnb in a short amount of time while grounding myself in completly new technologies to me along the way, I can safely say that I have proven myself to be adaptable.
 
 ## Education
 
@@ -36,7 +38,8 @@ I have a MTA (microsoft technical associates) in networking
 
 **Sitefinders** (may 2016 to January 2020)    
 *Web developer*  
-- I was responsible for rebuilding websites from the ground up that the company owned.
+I was responsible for maintaining websites the company owned as well as building new websites with modern designs that adhered to RWD principles, which resulted in lower bounce rate, increased user engagement with site content and higher search rankings on google. I was also responsible for teaching non-technical clients how to use wordpress, a CMS that would allow a user to publish any type of content without advanced technical knowledge.
+
 
 ## Hobbies
 Running: I completed a half marathon in 2019 and I am working my way towards running a full marathon
