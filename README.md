@@ -5,9 +5,9 @@ A young aspiring software developer who recently graduated from makers academy w
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
+|<a href="https://github.com/WilliamJGrace/Makersbnb">Algobot</a> | An algorithmic trading bot that scrapes jim cramers twitter feed and uses openAI to analyse trading sentiment and does the opposite  | 1 week | Javascript, Firebase, Puppeteer, AlpacaAPI | |
 |<a href="https://github.com/lilawalker/acebook-smooth-railing">Acebook on Rails</a> | Group project. A replica of Facebook that is linked to a database and can store accounts, uses the gem devise to handle log-in/log-out. Allows the user to post thoughts and pictures, stored in albums on personal profiles. | 2 weeks | Ruby on Rails, HTML, CSS bootstrap | RSpec, Travis, Heroku |
 |<a href="https://github.com/The-Mech-Squad/the_mech_squad">Space Trash</a> | Final group project of Makers Academy. The educational application that visualises satellites and space debris, using machine learning to try and predict what these objects could look like in the future. | 2 weeks | Django, Python, D3, Tensorflow, Anaconda, Cesium, Travis, Heroku, PostgreSQL | RSpec|
-|<a href="https://github.com/WilliamJGrace/Makersbnb">MakersBnB challenge</a> | A replica of AirBnB as a group project built in rails. | 2 days | Ruby on Rails, HTML, CSS | Capybara, RSpec, Travis|
 |<a href="https://github.com/jlblumberg/hfh-groceries">Key time</a> | Made during a hackathon at the height if the pandemic. A tool that helps key workers and vunerable people find out the best times to shop when it isnt busy. | 2 days | Ruby on Rails, JS, Webpack, Google maps API | rubocop, RSpec, Travis|
 
 
