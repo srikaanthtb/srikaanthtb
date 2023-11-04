@@ -43,5 +43,5 @@ I was responsible for maintaining websites the company owned as well as building
 
 
 ## Hobbies
-Running: I completed a half marathon in 2019 and I am working my way towards running a full marathon
+Running: I completed 3 half marathons in 2023 and I am working my way towards running a full marathon
 Martial arts: I practice shorinji kempo
